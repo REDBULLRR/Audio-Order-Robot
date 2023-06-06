@@ -8,7 +8,7 @@
 
 ## 執行
 ```shell
-$ python3 new_main.py
+python3 main.py
 ```
 
 ## 範例輸出
