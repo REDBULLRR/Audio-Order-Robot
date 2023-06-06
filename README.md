@@ -16,3 +16,8 @@ pip install gTTS
 pip install pygame
 pip install opencc-python-reimplemented
 ```
+
+## 執行
+```shell
+python3 new_main.py
+```
