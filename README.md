@@ -6,18 +6,12 @@
 - Windows 11
 - python 3.10.11
 
-## Requirements
-```
-pip install SpeechRecognition
-pip install wave
-sudo apt-get install portaudio19-dev
-pip install pyaudio
-pip install gTTS
-pip install pygame
-pip install opencc-python-reimplemented
-```
-
 ## 執行
 ```shell
-python3 new_main.py
+$ python3 new_main.py
+```
+
+## 範例輸出
+```shell
+
 ```
